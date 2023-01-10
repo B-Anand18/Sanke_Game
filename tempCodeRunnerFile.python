@@ -1,0 +1,3 @@
+rows,col=(3,4)
+a=[[4]*rows]*col
+print(a)
